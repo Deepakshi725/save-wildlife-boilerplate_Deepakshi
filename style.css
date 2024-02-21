@@ -31,6 +31,7 @@ nav,
   height: 60px;
   /* Your code goes here */
   display: flex;
+  justify-content: center;
 }
 
 .container {
@@ -38,7 +39,6 @@ nav,
   /* Your code goes here */
   display: flex;
   justify-content: space-evenly;
-  margin-left:35%;
   align-items: center;
 }
 
